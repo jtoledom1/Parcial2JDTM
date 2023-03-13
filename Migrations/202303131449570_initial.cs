@@ -55,7 +55,7 @@
         }
         
         public override void Down()
-        {
+        { 
             DropTable("dbo.Usuarios");
             DropTable("dbo.Ubicacions");
             DropTable("dbo.RolUsuarios");
