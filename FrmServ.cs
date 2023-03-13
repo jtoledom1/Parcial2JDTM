@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Parcial2JDTM
 {
-    public partial class Form1 : Form
+    public partial class FrmServ : Form
     {
-        public Form1()
+        public FrmServ()
         {
             InitializeComponent();
         }
